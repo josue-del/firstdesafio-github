@@ -4,8 +4,9 @@
 ###### Conforme Machado (2021), o Typora é um editor de textos com Markdown focado no conteúdo. Ao escrever textos na ferramenta, a pré-visualização do texto formatado é priorizada e a intenção é ter uma interface limpa e sem distrações.
 
 
-Link de página<br>
+Links úteis<br>
 🍪 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
+🍪 [Typora portable](https://10hoursperweek.wordpress.com/2020/01/29/portable-typora/)
 
 **Bibliografia**
 ###### **Você sabe o que é Markdown?** Disponível em: < <https://canaltech.com.br/software/Voce-sabe-o-que-e-Markdown/> >. Acesso em 21 jan 2022.
