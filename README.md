@@ -3,6 +3,9 @@
 ### Typora
 ###### Conforme Machado (2021), o Typora é um editor de textos com Markdown focado no conteúdo. Ao escrever textos na ferramenta, a pré-visualização do texto formatado é priorizada e a intenção é ter uma interface limpa e sem distrações.
 
+### Git 
+
+###### O Git é um sistema open-source de controle de versão utilizado por uma grande maioria dos desenvolvedores, com ele se criar todo histórico de alterações no código de um projeto e facilmente.
 
 Links úteis<br>
 🍪 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
