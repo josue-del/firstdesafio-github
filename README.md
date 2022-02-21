@@ -5,7 +5,7 @@
 
 ### Git 
 
-###### O Git é um sistema open-source de controle de versão utilizado por uma grande maioria dos desenvolvedores, com ele se pode criar todo histórico de alterações no código de um projeto e distribuido facilmente.
+###### O Git é um sistema open-source de controle de versão utilizado por uma grande maioria dos desenvolvedores, com ele se pode criar todo histórico de alterações no código de um projeto e distribui-lo facilmente.
 
 Links úteis<br>
 🍪 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
