@@ -1,3 +1,7 @@
 Links 
 https://www.atlassian.com/br/git/tutorials/git-bash
 O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git.
+Imagem feito com a ferramenta Inkscape.
+O Inkscape é um programa de gráficos vetoriais de qualidade profissional que roda em Windows, Mac OS X e GNU/Linux.
+Para quem quer levar o software em um pendrive pode estar baixando o formato portable.
+https://inkscape-portable.softonic.com.br/
